@@ -1,24 +1,34 @@
-# Lumen PHP Framework
+# Pmanager 
+This is a project management system built with Lumen 6x
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+## Tutorial
+The video tutorials for this repo is on youtube by Dave Ozoalor (built with Laravel 5.5 ), please do well to subscribe: https://www.youtube.com/watch?v=oltgtexDbdo&list=PLnBvgoOXZNCP2LEKmvu2W-eUkO-DYn0TL
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+## Usage
+1. Install lumen
+2. Run Migrations
+3. Signup a user and log in
+Enjoy
 
-## Official Documentation
+The follow the youtube channel for the tutorial on the steps above. 
+NB: You are advised to check out Lumen installation guide.
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+That's all, you are good to go.
 
-## Contributing
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+I can join your team, you can contact me.
 
-## Security Vulnerabilities
+## How to thank me
+* Star this repo
+Follow me on my social media handles
+* Follow on [Twitter](https://twitter.com/andreYang_)
+* Connect on [LinkedIn](https://www.linkedin.com/in/andinoinyang/)
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+
+## Contacts
+
+* You can reach the me on `inyangandino@gmail.com`, I'd like to join your team.
 
 ## License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This software is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
